@@ -1,0 +1,1 @@
+# ec2018-competition
